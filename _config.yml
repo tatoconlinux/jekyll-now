@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: **TatoconLinux Blog**
+name: TatoconLinux Blog
 
 # Short bio or description (displayed in the header)
 description: GNU/Linux, Informática, Sistemas y más
@@ -28,7 +28,7 @@ footer-links:
   rss: rss icon
   twitter: carlosegl
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UCHZ997PlGVUf511jVy789Dg
+  youtube: UCHZ997PlGVUf511jVy789Dg
   googleplus: +carlosgonzalez142
 
 
